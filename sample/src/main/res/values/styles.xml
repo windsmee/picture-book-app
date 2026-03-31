@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.PictureBookSample" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
