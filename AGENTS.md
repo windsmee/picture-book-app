@@ -25,7 +25,7 @@ Output:
 * Android SDK: **34**
 * Java: **11**
 * Min SDK: **21**
-* Build: **Gradle-8.0.1-bin.zip**
+* Build: **Gradle 7.5**
 * UI: Android View system (NO Compose)
 
 ---
